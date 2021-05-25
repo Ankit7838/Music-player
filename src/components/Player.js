@@ -104,6 +104,7 @@ const Player = ({
           size="2x"
           icon={faAngleLeft}
         />
+
         <FontAwesomeIcon
           onClick={playSongHandler}
           className="play"
